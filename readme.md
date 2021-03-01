@@ -107,3 +107,13 @@ Example: <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Be%7D%3D%5Cbinom
     
 
 ## Dot Product / Scalar Product
+
+The product (multiplication) of two vectors is called the dot product or the
+scalar product (confusing { I know! We will stick to the term \dot product").  
+The dot product of two vectors <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D"> and <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D"> is given by <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%5Ccdot%20%5Cvec%7Bb%7D%3D%20%5Cleft%20%7C%5Cvec%7Ba%7D%20%5Cright%20%7C%5Cleft%20%7C%5Cvec%7Bb%7D%20%5Cright%20%7C%20cos%28%5CTheta%20%29">  
+
+Where <img src="https://latex.codecogs.com/gif.latex?%5CTheta"> is the angle between the two vectors. It is important to not use X to denote the scalar product. That is reserved for a diferent product - namely the vector product or cross product.  
+
+#### (q) Given two vectors <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B2%7D%7B3%7D">, and <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D%3D%5Cbinom%7B4%7D%7B6%7D">, calculate <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%5Ccdot%20%5Cvec%7Bb%7D">. Notice they're parallel!  
+  
+  
