@@ -100,3 +100,5 @@ Example: <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Be%7D%3D%5Cbinom
 <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B%5Cfrac%7B3%7D%7B%5Csqrt%7B3%5E2&plus;2%5E2%7D%7D%7D%7B%5Cfrac%7B2%7D%7B%5Csqrt%7B3%5E2&plus;2%5E2%7D%7D%7D%5Capprox%280.832%2C0.555%29">  
 
 #### (p) What is the unit vector of <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%20%3D%20%5Cbinom%7B7%7D%7B-2%7D">  
+  
+<img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B%5Cfrac%7B7%7D%7B%5Csqrt%7B7%5E2-2%5E2%7D%7D%7D%7B%5Cfrac%7B-2%7D%7B%5Csqrt%7B7%5E%7B2%7D-2%5E2%7D%7D%7D%3D%281.043%2C-0.298%29">
