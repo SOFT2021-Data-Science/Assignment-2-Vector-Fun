@@ -52,9 +52,16 @@ The pulls from our heroes are given as <img src="https://latex.codecogs.com/gif.
 
 <img src="https://latex.codecogs.com/gif.latex?Vector%5Cvec%7BF%7D%20%3D%20%28F_x%2C%20F_y%29%20%3D%20%284.05%2C%202.9%29">  
   
-### (h) Having found the x-component(let's call it <img src="https://latex.codecogs.com/gif.latex?F_x">) and the y-component (let's
-call it <img src="https://latex.codecogs.com/gif.latex?F_y">), find <img src="https://latex.codecogs.com/gif.latex?%5Csqrt%7BF%5E2_x%20&plus;%20F%5E2_y%7D"> 
+### (h) Having found the x-component(let's call it <img src="https://latex.codecogs.com/gif.latex?F_x">) and the y-component (let's call it <img src="https://latex.codecogs.com/gif.latex?F_y">), find <img src="https://latex.codecogs.com/gif.latex?%5Csqrt%7BF%5E2_x%20&plus;%20F%5E2_y%7D"> 
 
 
 <img src="https://latex.codecogs.com/gif.latex?%5Csqrt%7BF%5E2_x%20&plus;%20F%5E2_y%7D%20%3D%20%5Csqrt%7B5%5E2&plus;0%2C0548%5E2%7D%20%3D%205">  
 
+## Multiplication of a Vector with a Scalar
+When multiplying with a scalar, each component is multiplied with the scalar.    
+
+### (i) Given <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B-4%7D%7B5%7D"> and <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D%3D5%5Cvec%7Ba%7D">, what is *b*? 
+  
+   
+<img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D%20%3D%20%28-4*5%2C5*5%29%20%3D%20%28-20%2C25%29">  
+  
