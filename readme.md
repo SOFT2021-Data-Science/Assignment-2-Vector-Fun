@@ -116,4 +116,3 @@ Where <img src="https://latex.codecogs.com/gif.latex?%5CTheta"> is the angle bet
 
 #### (q) Given two vectors <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B2%7D%7B3%7D">, and <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D%3D%5Cbinom%7B4%7D%7B6%7D">, calculate <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%5Ccdot%20%5Cvec%7Bb%7D">. Notice they're parallel!  
   
-  
