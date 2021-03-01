@@ -61,7 +61,24 @@ The pulls from our heroes are given as <img src="https://latex.codecogs.com/gif.
 When multiplying with a scalar, each component is multiplied with the scalar.    
 
 ### (i) Given <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B-4%7D%7B5%7D"> and <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D%3D5%5Cvec%7Ba%7D">, what is *b*? 
-  
-   
+
 <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D%20%3D%20%28-4*5%2C5*5%29%20%3D%20%28-20%2C25%29">  
+
+### (j) What is the length of <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D">?  
+<img src="https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%20%5Cvec%7Ba%7D%20%5Cright%20%7C%20%3D%20%5Csqrt%7B-4%5E2&plus;5%5E2%7D%20%3D%203">
+
+### (k) What is the length of <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D">?
   
+<img src="https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%20%5Cvec%7Bb%7D%20%5Cright%20%7C%20%3D%5Csqrt%7B-20%5E%7B2%7D&plus;25%5E%7B2%7D%7D%3D15">
+
+
+### (l) What is the result of <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B0%7D%5Ccdot%204">?
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B0%7D%5Ccdot%204%20%3D%20%5Cbinom%7B4%7D%7B0%7D">
+
+### (m) What is the result of <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B3%7D%5Ccdot%20%5Cfrac%7B1%7D%7B2%7D">?
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B3%7D%5Ccdot%20%5Cfrac%7B1%7D%7B2%7D%20%3D%20%5Cbinom%7B0.5%7D%7B1.5%7D">
+   
+   
+## Unit Vectors
