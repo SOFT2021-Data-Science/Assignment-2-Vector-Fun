@@ -7,8 +7,7 @@ What is the vector going from (0; 0) to B?
 <img src="https://latex.codecogs.com/gif.latex?u&space;=&space;OB&space;=&space;(7-0,8-0)=(7,8)">   
   
 ***b.*** Two points, A and B, in a coordinate system are given by
-A = (4; 3), B = (7; 8).
-The vector <img src="https://latex.codecogs.com/gif.latex?\vec{a}"> goes from A to B. What is <img src="https://latex.codecogs.com/gif.latex?\vec{a}"> ?
+A = (4; 3), B = (7; 8). The vector <img src="https://latex.codecogs.com/gif.latex?\vec{a}"> goes from A to B. What is <img src="https://latex.codecogs.com/gif.latex?\vec{a}"> ?  
+<img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%20%3D%20%287-4%2C8-3%29%20%3D%20%283%2C5%29">  
 
-
-
+***c.*** 
