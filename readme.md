@@ -72,11 +72,11 @@ When multiplying with a scalar, each component is multiplied with the scalar.
 <img src="https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%20%5Cvec%7Bb%7D%20%5Cright%20%7C%20%3D%5Csqrt%7B-20%5E%7B2%7D&plus;25%5E%7B2%7D%7D%3D15">
 
 
-#### (l) What is the result of <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B0%7D%5Ccdot%204">?
+#### (l) What is the result of <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B0%7D%5Ccdot%204"> ?
 
 <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B0%7D%5Ccdot%204%20%3D%20%5Cbinom%7B4%7D%7B0%7D">
 
-#### (m) What is the result of <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B3%7D%5Ccdot%20%5Cfrac%7B1%7D%7B2%7D">?
+#### (m) What is the result of <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B3%7D%5Ccdot%20%5Cfrac%7B1%7D%7B2%7D"> ?
 
 <img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B1%7D%7B3%7D%5Ccdot%20%5Cfrac%7B1%7D%7B2%7D%20%3D%20%5Cbinom%7B0.5%7D%7B1.5%7D">
    
