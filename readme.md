@@ -82,3 +82,13 @@ When multiplying with a scalar, each component is multiplied with the scalar.
    
    
 ## Unit Vectors
+Unit vectors have a magnitude of 1. The unit vector of a vector <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D"> is denoted <img src="https://latex.codecogs.com/gif.latex?%5Chat%7Ba%7D">,
+and points exactly in the same direction as <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D"> { it just has the magnitude of 1.  
+  
+  <br>
+
+**Example:** Given  <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B3%7D%7B0%7D">, its unit vector would be <img src="https://latex.codecogs.com/gif.latex?%5Chat%7Ba%7D%3D%5Cbinom%7B1%7D%7B0%7D">  
+**Example:** Given <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%20%3D%20%5Cbinom%7B2%7D%7B2%7D">, its unit vector would be <img src="https://latex.codecogs.com/gif.latex?%5Chat%7Ba%7D%20%3D%20%5Cbinom%7B0.707%7D%7B0.707%7D">  
+
+    
+#### (n) Given any vector, how can you find it's unit vector?
