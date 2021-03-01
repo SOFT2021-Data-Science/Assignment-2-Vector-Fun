@@ -1,6 +1,8 @@
 # Assignment 2 - Vector Fun
+### [Assignment Link](assignment.pdf)  
 
-## Vector Basics
+
+## Vector Basics  
 
 #### (a)  A point is given in a coordinate system: B = (7; 8). What is the vector going from (0; 0) to B?  
 
@@ -123,5 +125,4 @@ Where <img src="https://latex.codecogs.com/gif.latex?%5CTheta"> is the angle bet
 <img src="https://latex.codecogs.com/gif.latex?/vec%7Ba%7D/cdot&space;/vec%7Bb%7D&space;=&space;/sqrt%7B2%5E2&plus;3%5E2%7D/cdot&space;/sqrt%7B-3%5E2&plus;2%5E2%7D&space;/cdot&space;cos(90)&space;=&space;0" title="\vec{a}\cdot \vec{b} = \sqrt{2^2+3^2}\cdot \sqrt{-3^2+2^2} \cdot cos(90) = 0">
   
 ## Python
-#### (s) Using Python and numpy, implement a mag(vec) function to return the magnitude (length) of a 2-dimensional vector (as a numpy array).
-
+[Vector.py](vector.py)
