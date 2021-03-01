@@ -120,7 +120,7 @@ Where <img src="https://latex.codecogs.com/gif.latex?%5CTheta"> is the angle bet
 
 #### (r) Given two vectors, <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B2%7D%7B3%7D"> and <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D%3D%5Cbinom%7B-3%7D%7B2%7D">, calculate <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%5Ccdot%20%5Cvec%7Bb%7D">. Notice, they are perpendicular!  
   
-<img src="https://latex.codecogs.com/gif.latex?/vec%7Ba%7D/cdot&space;/vec%7Bb%7D&space;=&space;/sqrt%7B2%5E2&plus;3%5E2%7D/cdot&space;/sqrt%7B-3%5E2&plus;2%5E2%7D&space;/cdot&space;cos(90)&space;=&space;0" title="\vec{a}\cdot \vec{b} = \sqrt{2^2+3^2}\cdot \sqrt{-3^2+2^2} \cdot cos(90) = 0" />  
+<img src="https://latex.codecogs.com/gif.latex?/vec%7Ba%7D/cdot&space;/vec%7Bb%7D&space;=&space;/sqrt%7B2%5E2&plus;3%5E2%7D/cdot&space;/sqrt%7B-3%5E2&plus;2%5E2%7D&space;/cdot&space;cos(90)&space;=&space;0" title="\vec{a}\cdot \vec{b} = \sqrt{2^2+3^2}\cdot \sqrt{-3^2+2^2} \cdot cos(90) = 0">
   
 ## Python
 #### (s) Using Python and numpy, implement a mag(vec) function to return the magnitude (length) of a 2-dimensional vector (as a numpy array).
