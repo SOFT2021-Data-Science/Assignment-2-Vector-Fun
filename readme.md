@@ -45,6 +45,6 @@ What is the y-component?
 
 <img src="https://latex.codecogs.com/gif.latex?F_x%20%3D%205*cos%28%5Cpi/5%29%20%5Capprox%205%20*%20cos%280.6283%29%20%5Capprox%205%20*%200.809%20%5Capprox%20%3D%204.05">  
 
-<img src="https://latex.codecogs.com/gif.latex?F_x%20%3D%205*cos%28%5Cpi/5%29%20%5Capprox%205%20*%20sin%280.628%29%20%5Capprox%205%20*%200.587%20%5Capprox%202.9">  
+<img src="https://latex.codecogs.com/gif.latex?F_y%20%3D%205*sin%28%5Cpi/5%29%5Capprox%205*sin%280.628%29%5Capprox%205*0.587%5Capprox%202.9">  
 
 
