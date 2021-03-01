@@ -52,8 +52,8 @@ What is the y-component?
 
 <img src="https://latex.codecogs.com/gif.latex?Vector%20%5Cvec%7BF%7D%20%3D%20%28%5Cleft%20%7C%5Cvec%7BF%7D%20%5Cright%20%7C*cos%28%5CTheta%20%29%2C%20%5Cleft%20%7C%5Cvec%7BF%7D%20%5Cright%20%7C*sin%28%5CTheta%20%29%29">  
   
-  
-<img src="https://latex.codecogs.com/gif.latex?Vector%20%5Cvec%7BF%7D%20%3D%20%284.99%2C%200.05%29">  
+
+<img src="https://latex.codecogs.com/gif.latex?Vector%5Cvec%7BF%7D%20%3D%20%28F_x%2C%20F_y%29%20%3D%20%284.05%2C%202.9%29">  
   
 ***h*** Having found the x-component (let's call it <img src="https://latex.codecogs.com/gif.latex?F_x">) and the y-component (let's
 call it <img src="https://latex.codecogs.com/gif.latex?F_y">), find <img src="https://latex.codecogs.com/gif.latex?%5Csqrt%7BF%5E2_x%20&plus;%20F%5E2_y%7D">  
