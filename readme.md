@@ -92,3 +92,11 @@ and points exactly in the same direction as <img src="https://latex.codecogs.com
 
     
 #### (n) Given any vector, how can you find it's unit vector?
+To find a unit vector with the same direction as a given vector, we divide the vector by its magnitude - Byju's  
+Example: <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Be%7D%3D%5Cbinom%7B%5Ccos%28arg%28%5Cvec%7Be%7D%29%29%20%7D%7B%5Csin%28arg%28%5Cvec%7Be%7D%29%29%20%7D%20%3D%20%5Cbinom%7B%5Cfrac%7Bx%7D%7B%5Csqrt%7Bx%5E2&plus;y%5E2%7D%7D%7D%7B%5Cfrac%7By%7D%7B%5Csqrt%7Bx%5E2&plus;y%5E2%7D%7D%7D">
+
+#### (o) What is the unit vector of <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%20%3D%20%5Cbinom%7B3%7D%7B2%7D">
+  
+<img src="https://latex.codecogs.com/gif.latex?%5Cbinom%7B%5Cfrac%7B3%7D%7B%5Csqrt%7B3%5E2&plus;2%5E2%7D%7D%7D%7B%5Cfrac%7B2%7D%7B%5Csqrt%7B3%5E2&plus;2%5E2%7D%7D%7D%5Capprox%280.832%2C0.555%29">  
+
+#### (p) What is the unit vector of <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%20%3D%20%5Cbinom%7B7%7D%7B-2%7D">  
