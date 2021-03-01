@@ -21,6 +21,7 @@ The pulls from our heroes are given as <img src="https://latex.codecogs.com/gif.
 <img src="img/figur1.png">  
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B2%7D%7B-2%7D%2C%5Cvec%7Bb%7D%3D%5Cbinom%7B5%7D%7B2%7D">
+<img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B2%7D%7B-2%7D%2C%5Cvec%7Bb%7D%3D%5Cbinom%7B5%7D%7B2%7D">  
 
-***d.*** What is the resulting vector of their combined pull r~es?
+
+***d.*** What is the resulting vector of their combined pull <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bres%7D">?  
