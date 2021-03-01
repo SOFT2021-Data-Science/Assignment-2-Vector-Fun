@@ -28,6 +28,23 @@ The pulls from our heroes are given as <img src="https://latex.codecogs.com/gif.
 
 <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bres%7D%20%3D%20%282&plus;5%2C%20-2&plus;2%29%20%3D%20%287%2C0%29">  
   
-  
+
 ***e.*** Given the vectors, <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D%3D%5Cbinom%7B3%7D%7B2%7D%2C%20%5Cvec%7Bb%7D%3D%5Cbinom%7B5%7D%7B1%7D%2C%5Cvec%7Bc%7D%3D%5Cbinom%7B-2%7D%7B6%7D"> calculate:
+
+1. <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D&plus;%5Cvec%7Bb%7D%20%3D%20%285&plus;3%2C%202&plus;1%29%20%3D%20%288%2C3%29">  
+2. <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Bb%7D&plus;%5Cvec%7Bc%7D%20%3D%20%285&plus;-2%2C1&plus;6%29%20%3D%20%283%2C7%29">  
+3. <img src="https://latex.codecogs.com/gif.latex?%28%5Cvec%7Ba%7D&plus;%5Cvec%7Bb%7D%29%20&plus;%20%5Cvec%7Bc%7D%20%3D%20%288-2%2C3&plus;6%29%20%3D%20%286%2C9%29">
+4. <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D&plus;%28%5Cvec%7Bb%7D%20&plus;%20%5Cvec%7Bc%7D%29%20%3D%20%283&plus;3%2C2&plus;7%29%20%3D%20%286%2C9%29">
+5. <img src="https://latex.codecogs.com/gif.latex?%5Cvec%7Ba%7D&plus;%5Cvec%7Bb%7D%20%3D%20%285&plus;3%2C1&plus;2%29%20%3D%20%288%2C3%29">  
+  
+## Vector Decomposition
+<img src="img/figur23.png">  
+  
+  ***f.*** In Figure 3, what is the x-component of the force applied?
+What is the y-component?  
+
+<img src="https://latex.codecogs.com/gif.latex?F_x%20%3D%205*cos%28%5Cpi/5%29%20%5Capprox%205%20*%20cos%280.6283%29%20%5Capprox%205%20*%200.809%20%5Capprox%20%3D%204.05">  
+
+<img src="https://latex.codecogs.com/gif.latex?F_x%20%3D%205*cos%28%5Cpi/5%29%20%5Capprox%205%20*%20sin%280.628%29%20%5Capprox%205%20*%200.587%20%5Capprox%202.9">  
+
 
